@@ -141,6 +141,8 @@ const yargs = require('yargs')
 
 如果你想让别人也能使用上就 `npm publish` 吧。
 
+[github 完整示例](https://github.com/Kayakyx/kay-cli)
+
 参考：
 [node-npm发布包-package.json中bin的用法](https://blog.csdn.net/weixin_43833570/article/details/97100520)
 [yargs](https://github.com/yargs/yargs)
