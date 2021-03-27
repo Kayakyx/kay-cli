@@ -1,0 +1,16 @@
+{
+  "name": "kay-cli",
+  "version": "1.0.0",
+  "description": "kay say",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "kaysay": "./bin/cli.js",
+    "kaysayplus": "./bin/cli-plus.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.0-candidate.8"
+  }
+}
